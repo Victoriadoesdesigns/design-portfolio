@@ -3,7 +3,7 @@ My UI/UX design projects
 ictoria's Design Portfolio
 
 Hi, I'm Victoria. 
-I'm UI/UX designer and laerning graphic design.
+I'm UI/UX designer and soon-to-be graphic designer.
 
 ## Projects
 - User interface designs
